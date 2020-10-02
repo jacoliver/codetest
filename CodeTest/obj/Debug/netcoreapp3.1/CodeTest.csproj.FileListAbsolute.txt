@@ -1,0 +1,4 @@
+C:\Dev\Git\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.exe
+C:\Dev\Git\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.csprojAssemblyReference.cache
+C:\Dev\Git\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.AssemblyInfoInputs.cache
+C:\Dev\Git\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.AssemblyInfo.cs
