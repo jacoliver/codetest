@@ -8,10 +8,9 @@
 
     //Shapes Inc. would like an application that prints information regarding the 5 largest shapes by area
     //They would also like the aplication to print 5 smallest shapes by perimeter
-
-    //**BONUS QUESTION**
-    //Shapes Inc. wish to continue the development of the application after you have built the initial program
-    //As such they have asked if you could write unit tests where appropriate to ensure quality
+    
+    //Shapes Inc. have requested this code be of production quality and to have confidence that this code
+    //won't break after future development. Add anything that you think may be relevant to satisfy this request
     class Program
     {
         static void Main(string[] args)
